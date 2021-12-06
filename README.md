@@ -33,5 +33,5 @@ https://shreygandhi.itch.io/space-rebel
 Game manager scirpt having commented code that swap between player to control each
 Switches to enable and disable various objects in level.
 
-To test this feature : Prototype Zip file
+To test this feature : Vertical slice Zip file
 https://shreygandhi.itch.io/space-rebel
